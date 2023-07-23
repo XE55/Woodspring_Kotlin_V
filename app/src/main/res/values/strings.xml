@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Woodspring</string>
+    <string name="title_home">Contact</string>
+    <string name="title_dashboard"></string>
+    <string name="title_notifications">Favorite</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
